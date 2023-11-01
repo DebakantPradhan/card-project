@@ -32,15 +32,15 @@
 }
 
 .box1 img {
-    width: auto;
-    height: 500px;
+    width: 300px;
+    height: 300px;
     border-radius: 10px;
 }
 
 .box2 {
     /* border: 2px solid rgb(115, 104, 21); */
     height: fit-content;
-    width: 500px;
+    width: 300px;
     margin: 0px;
     padding: 5px;
     border-radius: 10px;
